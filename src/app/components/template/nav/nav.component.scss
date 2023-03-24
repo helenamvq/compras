@@ -1,0 +1,27 @@
+.sidenav {
+  background-color: darksalmon;
+  width: 200px;
+}
+.sidenav a {
+  margin-top: 20px;
+
+}
+.sidenav i {
+  padding-right: 10px;
+  margin-right: 10px;
+
+
+}
+.mat-list-item {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.mat-list-item i {
+  margin-right: 10px;
+}
+.content {
+  padding: 16px;
+  background-color: #FFF;
+}

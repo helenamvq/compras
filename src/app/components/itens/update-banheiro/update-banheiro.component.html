@@ -1,0 +1,32 @@
+<mat-card>
+  <mat-card-title> Alterar Item</mat-card-title>
+  <form id="form">
+
+    <mat-form-field>
+      <input matInput placeholder="Nome"
+      [(ngModel)]="itens.name" name="name">
+    </mat-form-field>
+    <mat-form-field>
+      <input matInput placeholder="Preço (R$)"
+
+      [(ngModel)]="itens.price" name="price">
+    </mat-form-field>
+    <mat-form-field>
+      <input matInput placeholder="Situação"
+      [(ngModel)]="itens.situation" name="situation">
+    </mat-form-field>
+    <mat-form-field>
+      <input matInput placeholder="Categoria"
+      [(ngModel)]="itens.category" name="category">
+    </mat-form-field>
+  </form>
+
+
+
+  <button mat-raised-button (click)="update()" color="warn" >
+    Alterar
+  </button>
+  <button mat-raised-button (click)="cancel()">
+    Cancelar
+  </button>
+  </mat-card>

@@ -1,0 +1,47 @@
+<mat-sidenav-container class="container">
+  <mat-sidenav class="sidenav" mode="side" opened fixedInViewport="true" fixedTopGap="64">
+<mat-nav-list class="nav-list">
+  <a mat-list-item routerLink="/casa">
+    <i class="material-icons">
+  start
+    </i>
+    Início
+  </a>
+  <a mat-list-item routerLink="/quarto">
+  <i class="material-icons">
+bed
+  </i>
+  Quarto
+</a>
+<a mat-list-item routerLink="/banheiro">
+  <i class="material-icons">
+bathtub
+  </i>
+  Banheiro
+</a>
+<a mat-list-item routerLink="/cozinha">
+  <i class="material-icons">
+kitchen
+  </i>
+  Cozinha
+</a>
+<a mat-list-item routerLink="/sala">
+  <i class="material-icons">
+chair
+  </i>
+  Sala
+</a>
+<a mat-list-item routerLink="/area">
+  <i class="material-icons">
+grass
+  </i>
+  Área
+</a>
+</mat-nav-list>
+
+  </mat-sidenav>
+  <mat-sidenav-content class="content">
+    <router-outlet></router-outlet>
+  </mat-sidenav-content >
+
+</mat-sidenav-container>

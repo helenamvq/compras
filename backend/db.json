@@ -1,0 +1,102 @@
+{
+  "itens": [
+    {
+      "name": "banquetas",
+      "price": "300.00",
+      "situation": "Pendente",
+      "category": "sala",
+      "id": 8
+    },
+    {
+      "name": "plantas",
+      "price": "15.99",
+      "situation": "pendente",
+      "category": "área",
+      "id": 15
+    },
+    {
+      "name": "Cama box Oliver",
+      "price": "299.90",
+      "situation": "Pendente",
+      "category": "Quarto",
+      "id": 17
+    },
+    {
+      "name": "Cama Oliver",
+      "price": "299.90",
+      "situation": "Pendente",
+      "category": "quarto",
+      "id": 18
+    },
+    {
+      "name": "Jogo de Cama",
+      "price": "99.90",
+      "situation": "Pendente",
+      "category": "quarto",
+      "id": 19
+    },
+    {
+      "name": "Ralo",
+      "price": "79.90",
+      "situation": "Pendente",
+      "category": "banheiro",
+      "id": 21
+    },
+    {
+      "name": "Porta escova",
+      "price": "59.90",
+      "situation": "Pendente",
+      "category": "banheiro",
+      "id": 22
+    },
+    {
+      "name": "Faqueiro",
+      "price": "89.90",
+      "situation": "Pendente",
+      "category": "cozinha",
+      "id": 24
+    },
+    {
+      "name": "Tuppeware",
+      "price": "159.90",
+      "situation": "Pendente",
+      "category": "cozinha",
+      "id": 25
+    },
+    {
+      "name": "Pano de prato",
+      "price": "5.99",
+      "situation": "Pendente",
+      "category": "cozinha",
+      "id": 26
+    },
+    {
+      "name": "Cortina",
+      "price": "129.99",
+      "situation": "Pendente",
+      "category": "sala",
+      "id": 27
+    },
+    {
+      "name": "Cortina",
+      "price": "5.99",
+      "situation": "Pendente",
+      "category": "quarto",
+      "id": 28
+    },
+    {
+      "name": "Cadeiras varanda",
+      "price": "395.90",
+      "situation": "pendente",
+      "category": "área",
+      "id": 29
+    },
+    {
+      "name": "puffs",
+      "price": "99.90",
+      "situation": "Pendente",
+      "category": "área",
+      "id": 30
+    }
+  ]
+}
